@@ -1,0 +1,3 @@
+enum HotType {
+    COFFEE,TEA;
+}
